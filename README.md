@@ -81,8 +81,8 @@ This project is open source and free to use.
 
 ## Author
 
-Manan Goyal – [GitHub Profile](https://github.com/mananrrk)  
-Contact: manan.goyal@example.com
+Manan Goyal –https://github.com/mananrrk  
+Contact: mananmlzs@gmail.com
 
 ---
 
